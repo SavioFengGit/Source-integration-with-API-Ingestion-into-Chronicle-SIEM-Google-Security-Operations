@@ -1,0 +1,2 @@
+# Source-integration-with-API-Ingestion-into-Chronicle-SIEM-Google-Security-Operations
+In this repository I will show you how to integrate a source on the chronicle siem through the ingestion api. Take the CTM360 source as an example, for which Google currently does not have a default parser to normalize data according to the udm standard. I will make this custom integration through the deployment of a cloud function.
