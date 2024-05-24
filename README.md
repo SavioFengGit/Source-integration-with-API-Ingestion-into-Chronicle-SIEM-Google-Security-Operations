@@ -7,5 +7,10 @@ In this repository I will show you how to integrate a source on the chronicle si
  - Chronicle Customer GUID
  - CTM API key and Secret
 
+# Documentation to understand the ingestion process
+ - https://cloud.google.com/chronicle/docs/data-ingestion-flow?hl=en
+ - https://cloud.google.com/chronicle/docs/reference/ingestion-api
+ - https://cloud.google.com/functions/docs?hl=en
+ - https://cloud.google.com/iam/docs/service-account-overview?hl=en
 
    
